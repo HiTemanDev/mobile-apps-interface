@@ -18,7 +18,7 @@ HiTeman is a mobile application that provides personalized, ACT-based mental hea
 3. REST API integration with FastAPI backend
 4. Audio playback integration
 
-# Hasil sementara masih belum jadi :
+# Tampilan Hasil :
 
 ![Imgur](https://imgur.com/Fp4wygl.png)
 ![Imgur](https://imgur.com/1evhXYZ.png)
