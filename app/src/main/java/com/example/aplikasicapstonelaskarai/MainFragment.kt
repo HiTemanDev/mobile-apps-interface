@@ -195,7 +195,7 @@ class MainFragment : Fragment() {
 
         val generativeModel = GenerativeModel(
             modelName = "gemini-1.5-flash",
-            apiKey = "AIzaSyDnMHce4Y1me6zjYpTys3HVnNz2hqCx6J8" // Ganti dengan kunci API Anda
+            apiKey = "dikosongkan untuk keamanan" // Ganti dengan kunci API Anda
         )
 
         // Simpan job coroutine agar bisa dibatalkan
